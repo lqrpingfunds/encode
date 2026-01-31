@@ -1,4 +1,3 @@
-local SCRIPT_KEY = "ccgGYb2ybCApBpnj"
 if SCRIPT_KEY ~= "ccgGYb2ybCApBpnj" then return end
 
 local ESP_TOGGLE_KEY = Enum.KeyCode.C
